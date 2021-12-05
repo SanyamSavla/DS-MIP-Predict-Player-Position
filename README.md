@@ -21,7 +21,8 @@ Using data from FIFA players and their performance metrics, this system can esti
   <ol>
     <li><a href="#technologies-&-dataset">Tech & Dataset</a></li>
     <li><a href="#data-analysis">Data Analysis</a></li>
-    <li><a href="#contact">Contact</a></li>
+   <li><a href="#machine-learning">Machine Learning</a></li>
+    <li><a href="#contact">Contact Us</a></li>
   </ol>
 </details>
 
@@ -61,6 +62,35 @@ Using data from FIFA players and their performance metrics, this system can esti
 
 ![6](./6.png)
 
+
+## Machine Learning
+
+1. Dimensionality Reduction using PCA:
+
+![7](./7.png)
+
+To explain 90% of the variance, we have to go up to the 8th component.
+
+![8](./8.png)
+
+General patterns are still visible. The first component clearly distinguishes goalkeepers from the rest of the players.
+
+2. Dimensionality Reduction using t-SNE:
+
+![9](./9.png)
+
+t-SNE is a non-linear dimensionality reduction algorithm that seeks to finds patterns in the data by identifying clusters based on similarity of data points.
+
+3. KNN Model:
+
+![10](./10.png)
+
+Accuracy was used to select the optimal model using the largest value.
+The final value used for the model was k = 55.
+
+4. Results on Test Data:
+
+![11](./11.png)
 
 
 
