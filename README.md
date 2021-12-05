@@ -38,6 +38,32 @@ Using data from FIFA players and their performance metrics, this system can esti
 
 1. Finding Distribution and the Average of The Players in each League:
 
+![1](./1.png)
+
+2. Total Market Value in each League:
+
+![2](./2.png)
+
+3. Visualization of the Position:
+
+![3](./3.png)
+
+4.  Correlation between Finishing & Shot Power:
+
+![4](./4.png)
+
+5.  Contract Analysis:
+
+![5](./5.png)
+
+6.  Top 10 Wonderkids:
+
+
+![6](./6.png)
+
+
+
+
 
 <!-- CONTACT -->
 ## Contact
