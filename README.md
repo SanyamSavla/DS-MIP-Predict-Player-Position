@@ -10,7 +10,7 @@
 
 
 <p align="center">
-Using fifa data subsuming player's performance attributes, this system can predict suitable position for that football player to be ideal in the team.
+Using data from FIFA players and their performance metrics, this system can estimate the best position for that football in the squad.
 </p>
 
 
@@ -19,24 +19,13 @@ Using fifa data subsuming player's performance attributes, this system can predi
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#technologies-&-dataset">Tech & Dataset</a></li>
-      </ul>
-    </li>
+    <li><a href="#technologies-&-dataset">Tech & Dataset</a></li>
     <li><a href="#data-analysis">Data Analysis</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-![landing](./landingPage.png)
-
-
-### Technologies & Dataset
+## Technologies & Dataset
 
 * [R](https://www.r-project.org/)
 
