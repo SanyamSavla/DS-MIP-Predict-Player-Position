@@ -10,7 +10,7 @@
 
 
 <p align="center">
-Using data from FIFA players and their performance metrics, this system can estimate the best position for that football in the squad.
+A football team normally consists of 11 players: one goalkeeper and ten outfielders who play defensive, midfield, and attacking positions. Goalkeepers, unlike other players on the pitch, do not change positions or occupy significant sections of the field. This system can suggest the optimum location for a plater in the team based on data from FIFA players and their performance metrics. In addition, we analyzed essential features of high business value to ensure the optimal administration of a club.
 </p>
 
 
